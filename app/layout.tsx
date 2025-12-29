@@ -10,6 +10,12 @@ export const metadata: Metadata = {
   description: 'Лучший додаток для підрахунку очок у будь-якій грі! Відстежуйте очки, рахунки та багато іншого — швидко, просто й без реклами. Ідеально підходить для настільних ігор, карткових ігор та щоденних занять.',
   keywords: 'score keeper, лічильник балів, счетчик очков, настільні ігри, board games, dice, таймер, timer',
   authors: [{ name: 'Score Keeper' }],
+  manifest: '/manifest.json',
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: 'default',
+    title: 'Score Keeper',
+  },
   openGraph: {
     title: 'Score Keeper - Лічильник Балів',
     description: 'Лучший додаток для підрахунку очок у будь-якій грі!',
@@ -28,6 +34,10 @@ export const metadata: Metadata = {
     userScalable: true,
     viewportFit: 'cover',
   },
+  themeColor: [
+    { media: '(prefers-color-scheme: light)', color: '#3B82F6' },
+    { media: '(prefers-color-scheme: dark)', color: '#3B82F6' },
+  ],
 }
 
 export default function RootLayout({
@@ -43,20 +53,20 @@ export default function RootLayout({
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-        <link rel="manifest" href="/site.webmanifest" />
         
         {/* Theme and PWA */}
-        <meta name="theme-color" content="#3B82F6" />
+        <meta name="theme-color" content="#3B82F6" media="(prefers-color-scheme: light)" />
+        <meta name="theme-color" content="#3B82F6" media="(prefers-color-scheme: dark)" />
         <meta name="color-scheme" content="light dark" />
         
         {/* iOS PWA Meta Tags */}
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
         <meta name="apple-mobile-web-app-title" content="Score Keeper" />
-        <meta name="mobile-web-app-capable" content="yes" />
         
         {/* Android PWA Meta Tags */}
         <meta name="application-name" content="Score Keeper" />
+        <meta name="mobile-web-app-capable" content="yes" />
         <meta name="msapplication-TileColor" content="#3B82F6" />
         
         {/* PWA Display */}

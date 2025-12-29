@@ -18,7 +18,7 @@
 
 ## Tech Stack
 
-- **Next.js 14** - React framework
+- **Next.js 16** - React framework
 - **TypeScript** - Type safety
 - **TailwindCSS** - Utility-first CSS framework
 - **Framer Motion** - Smooth animations

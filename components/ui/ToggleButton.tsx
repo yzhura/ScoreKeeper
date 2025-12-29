@@ -3,7 +3,10 @@
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
 
-interface ToggleButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
+interface ToggleButtonProps extends Omit<
+  React.ButtonHTMLAttributes<HTMLButtonElement>,
+  'onDrag' | 'onDragEnd' | 'onDragStart' | 'onAnimationStart' | 'onAnimationEnd' | 'onAnimationIteration'
+> {
   isSelected: boolean;
   children: React.ReactNode;
 }

@@ -9,7 +9,13 @@ interface StackProps {
   gap?: number | string;
   direction?: "row" | "column";
   alignItems?: "start" | "center" | "end" | "stretch";
-  justifyContent?: "start" | "center" | "end" | "space-between" | "space-around" | "space-evenly";
+  justifyContent?:
+    | "start"
+    | "center"
+    | "end"
+    | "space-between"
+    | "space-around"
+    | "space-evenly";
   flexWrap?: "wrap" | "nowrap";
 }
 
@@ -51,18 +57,17 @@ export function Stack({
 }
 
 export function YStack({ children, ...props }: Omit<StackProps, "direction">) {
-  return <Stack direction="column" {...props}>{children}</Stack>;
+  return (
+    <Stack direction="column" {...props}>
+      {children}
+    </Stack>
+  );
 }
 
 export function XStack({ children, ...props }: Omit<StackProps, "direction">) {
-  return <Stack direction="row" {...props}>{children}</Stack>;
+  return (
+    <Stack direction="row" {...props}>
+      {children}
+    </Stack>
+  );
 }
-
-export function YStack({ children, ...props }: Omit<StackProps, "direction">) {
-  return <Stack direction="column" {...props}>{children}</Stack>;
-}
-
-export function XStack({ children, ...props }: Omit<StackProps, "direction">) {
-  return <Stack direction="row" {...props}>{children}</Stack>;
-}
-

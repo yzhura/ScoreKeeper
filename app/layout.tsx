@@ -25,6 +25,8 @@ export const metadata: Metadata = {
     width: 'device-width',
     initialScale: 1,
     maximumScale: 5,
+    userScalable: true,
+    viewportFit: 'cover',
   },
 }
 
@@ -44,11 +46,22 @@ export default function RootLayout({
         <link rel="manifest" href="/site.webmanifest" />
         
         {/* Theme and PWA */}
-        <meta name="theme-color" content="#000000" />
-        <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-        <meta name="apple-mobile-web-app-title" content="Score Keeper" />
+        <meta name="theme-color" content="#3B82F6" />
         <meta name="color-scheme" content="light dark" />
+        
+        {/* iOS PWA Meta Tags */}
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+        <meta name="apple-mobile-web-app-title" content="Score Keeper" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        
+        {/* Android PWA Meta Tags */}
+        <meta name="application-name" content="Score Keeper" />
+        <meta name="msapplication-TileColor" content="#3B82F6" />
+        
+        {/* PWA Display */}
+        <meta name="display" content="standalone" />
+        <meta name="orientation" content="portrait" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{

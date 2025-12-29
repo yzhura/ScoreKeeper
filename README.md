@@ -7,7 +7,7 @@
 ## Screens
 
 ![appcover](screens/cover.jpg)
-![screenshot](screens/s1.jpg)
+<img src="screens/s1.jpg" width=300 />
 
 ## Features
 

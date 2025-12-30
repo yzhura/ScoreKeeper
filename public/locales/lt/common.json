@@ -46,6 +46,16 @@
   "areYouSure": "Ar tikrai?",
   "resetScoreConfirm": "Tai atstatys visus taškus į 0",
   "deleteAllConfirm": "Tai ištrins visus žaidėjus",
-  "deletePlayerConfirm": "Tai ištrins šį žaidėją"
+  "deletePlayerConfirm": "Tai ištrins šį žaidėją",
+  "noHistory": "Istorijos dar nėra",
+  "score": "Taškai",
+  "players": "žaidėjų",
+  "clearHistory": "Išvalyti Istoriją",
+  "clearHistoryConfirm": "Tai ištrins visus istorijos įrašus. Šio veiksmo negalima atšaukti.",
+  "diceSettings": "Kauliukų Nustatymai",
+  "enterValue": "Įveskite vertę",
+  "clickToRoll": "Spustelėkite bet kur, kad mėtumėte kauliuką",
+  "viewModeHint": "Skirtumas matomas tik planšetėse ir stalinėse kompiuteriuose",
+  "questionsAndImprovements": "Klausimai ir Patobulinimai"
 }
 

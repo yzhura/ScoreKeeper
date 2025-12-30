@@ -46,6 +46,16 @@
   "areYouSure": "Tem certeza?",
   "resetScoreConfirm": "Isso redefinirá todas as pontuações para 0",
   "deleteAllConfirm": "Isso excluirá todos os jogadores",
-  "deletePlayerConfirm": "Isso excluirá este jogador"
+  "deletePlayerConfirm": "Isso excluirá este jogador",
+  "noHistory": "Ainda não há histórico",
+  "score": "Pontuação",
+  "players": "jogadores",
+  "clearHistory": "Limpar Histórico",
+  "clearHistoryConfirm": "Isso excluirá todas as entradas do histórico. Esta ação não pode ser desfeita.",
+  "diceSettings": "Configurações de Dados",
+  "enterValue": "Digite o valor",
+  "clickToRoll": "Clique em qualquer lugar para rolar os dados",
+  "viewModeHint": "A diferença é visível apenas em tablets e desktops",
+  "questionsAndImprovements": "Perguntas e Melhorias"
 }
 

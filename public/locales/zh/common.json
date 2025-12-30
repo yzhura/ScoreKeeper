@@ -46,6 +46,16 @@
   "areYouSure": "您确定吗？",
   "resetScoreConfirm": "这将重置所有分数为0",
   "deleteAllConfirm": "这将删除所有玩家",
-  "deletePlayerConfirm": "这将删除此玩家"
+  "deletePlayerConfirm": "这将删除此玩家",
+  "noHistory": "暂无历史记录",
+  "score": "分数",
+  "players": "玩家",
+  "clearHistory": "清除历史",
+  "clearHistoryConfirm": "这将删除所有历史记录。此操作无法撤销。",
+  "diceSettings": "骰子设置",
+  "enterValue": "输入值",
+  "clickToRoll": "点击任意位置掷骰子",
+  "viewModeHint": "差异仅在平板电脑和台式机上可见",
+  "questionsAndImprovements": "问题和改进"
 }
 

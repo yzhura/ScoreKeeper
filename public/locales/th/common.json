@@ -46,6 +46,16 @@
   "areYouSure": "คุณแน่ใจหรือไม่?",
   "resetScoreConfirm": "นี่จะรีเซ็ตคะแนนทั้งหมดเป็น 0",
   "deleteAllConfirm": "นี่จะลบผู้เล่นทั้งหมด",
-  "deletePlayerConfirm": "นี่จะลบผู้เล่นคนนี้"
+  "deletePlayerConfirm": "นี่จะลบผู้เล่นคนนี้",
+  "noHistory": "ยังไม่มีประวัติ",
+  "score": "คะแนน",
+  "players": "ผู้เล่น",
+  "clearHistory": "ล้างประวัติ",
+  "clearHistoryConfirm": "นี่จะลบรายการประวัติทั้งหมด การกระทำนี้ไม่สามารถยกเลิกได้",
+  "diceSettings": "การตั้งค่าลูกเต๋า",
+  "enterValue": "ป้อนค่า",
+  "clickToRoll": "คลิกที่ใดก็ได้เพื่อทอยลูกเต๋า",
+  "viewModeHint": "ความแตกต่างจะเห็นได้เฉพาะในแท็บเล็ตและเดสก์ท็อป",
+  "questionsAndImprovements": "คำถามและการปรับปรุง"
 }
 

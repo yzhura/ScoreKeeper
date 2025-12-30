@@ -46,6 +46,16 @@
   "areYouSure": "Jeste li sigurni?",
   "resetScoreConfirm": "Ovo će resetirati sve rezultate na 0",
   "deleteAllConfirm": "Ovo će obrisati sve igrače",
-  "deletePlayerConfirm": "Ovo će obrisati ovog igrača"
+  "deletePlayerConfirm": "Ovo će obrisati ovog igrača",
+  "noHistory": "Još nema povijesti",
+  "score": "Rezultat",
+  "players": "igrača",
+  "clearHistory": "Očisti Povijest",
+  "clearHistoryConfirm": "Ovo će obrisati sve unose povijesti. Ova radnja se ne može poništiti.",
+  "diceSettings": "Postavke Kockica",
+  "enterValue": "Unesite vrijednost",
+  "clickToRoll": "Kliknite bilo gdje za bacanje kockice",
+  "viewModeHint": "Razlika je vidljiva samo na tabletima i stolnim računalima",
+  "questionsAndImprovements": "Pitanja i Poboljšanja"
 }
 

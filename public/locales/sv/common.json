@@ -46,6 +46,16 @@
   "areYouSure": "Är du säker?",
   "resetScoreConfirm": "Detta återställer alla poäng till 0",
   "deleteAllConfirm": "Detta tar bort alla spelare",
-  "deletePlayerConfirm": "Detta tar bort denna spelare"
+  "deletePlayerConfirm": "Detta tar bort denna spelare",
+  "noHistory": "Ingen historik ännu",
+  "score": "Poäng",
+  "players": "spelare",
+  "clearHistory": "Rensa Historik",
+  "clearHistoryConfirm": "Detta tar bort alla historikposter. Denna åtgärd kan inte ångras.",
+  "diceSettings": "Tärningsinställningar",
+  "enterValue": "Ange värde",
+  "clickToRoll": "Klicka var som helst för att kasta tärningen",
+  "viewModeHint": "Skillnaden är endast synlig på surfplattor och datorer",
+  "questionsAndImprovements": "Frågor och Förbättringar"
 }
 

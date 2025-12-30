@@ -46,6 +46,16 @@
   "areYouSure": "Emin misiniz?",
   "resetScoreConfirm": "Bu tüm skorları 0'a sıfırlayacak",
   "deleteAllConfirm": "Bu tüm oyuncuları silecek",
-  "deletePlayerConfirm": "Bu oyuncuyu silecek"
+  "deletePlayerConfirm": "Bu oyuncuyu silecek",
+  "noHistory": "Henüz geçmiş yok",
+  "score": "Skor",
+  "players": "oyuncu",
+  "clearHistory": "Geçmişi Temizle",
+  "clearHistoryConfirm": "Bu, tüm geçmiş kayıtlarını silecek. Bu işlem geri alınamaz.",
+  "diceSettings": "Zar Ayarları",
+  "enterValue": "Değer girin",
+  "clickToRoll": "Zar atmak için herhangi bir yere tıklayın",
+  "viewModeHint": "Fark sadece tabletlerde ve masaüstü bilgisayarlarda görünür",
+  "questionsAndImprovements": "Sorular ve İyileştirmeler"
 }
 

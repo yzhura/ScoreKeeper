@@ -46,6 +46,16 @@
   "areYouSure": "ඔබට විශ්වාසද?",
   "resetScoreConfirm": "මෙය සියලු ලකුණු 0 ට යළි සැකසේ",
   "deleteAllConfirm": "මෙය සියලු ක්‍රීඩකයින් මකා දමයි",
-  "deletePlayerConfirm": "මෙය මෙම ක්‍රීඩකයා මකා දමයි"
+  "deletePlayerConfirm": "මෙය මෙම ක්‍රීඩකයා මකා දමයි",
+  "noHistory": "තවමත් ඉතිහාසයක් නැත",
+  "score": "ලකුණු",
+  "players": "ක්‍රීඩකයින්",
+  "clearHistory": "ඉතිහාසය මකන්න",
+  "clearHistoryConfirm": "මෙය ඉතිහාසයේ සියලුම ඇතුළත් කිරීම් මකා දමයි. මෙම ක්‍රියාව අවලංගු කළ නොහැකිය.",
+  "diceSettings": "දාදු කැට සැකසීම්",
+  "enterValue": "අගය ඇතුළත් කරන්න",
+  "clickToRoll": "දාදු කැට දැමීමට ඕනෑම තැනක ක්ලික් කරන්න",
+  "viewModeHint": "වෙනස ටැබ්ලට් සහ ඩෙස්ක්ටොප් වලදී පමණක් දෘශ්‍යමාන වේ",
+  "questionsAndImprovements": "ප්‍රශ්න සහ වැඩිදියුණු කිරීම්"
 }
 

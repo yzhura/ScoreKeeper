@@ -46,6 +46,16 @@
   "areYouSure": "An bhfuil tú cinnte?",
   "resetScoreConfirm": "Athshocraíonn sé seo gach scór go 0",
   "deleteAllConfirm": "Scriosann sé seo gach imreoir",
-  "deletePlayerConfirm": "Scriosann sé seo an t-imreoir seo"
+  "deletePlayerConfirm": "Scriosann sé seo an t-imreoir seo",
+  "noHistory": "Níl stair fós ann",
+  "score": "Scór",
+  "players": "imreoirí",
+  "clearHistory": "Glan Stair",
+  "clearHistoryConfirm": "Scriosfaidh sé seo gach iontráil stair. Ní féidir an gníomh seo a chealú.",
+  "diceSettings": "Socruithe Dísle",
+  "enterValue": "Iontráil luach",
+  "clickToRoll": "Cliceáil áit ar bith chun an dísle a chaitheamh",
+  "viewModeHint": "Ní fheictear an difríocht ach ar tháibléid agus ar ríomhairí deisce",
+  "questionsAndImprovements": "Ceisteanna agus Feabhsuithe"
 }
 

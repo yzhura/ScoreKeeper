@@ -46,6 +46,16 @@
   "areYouSure": "Er du sikker?",
   "resetScoreConfirm": "Dette nulstiller alle point til 0",
   "deleteAllConfirm": "Dette sletter alle spillere",
-  "deletePlayerConfirm": "Dette sletter denne spiller"
+  "deletePlayerConfirm": "Dette sletter denne spiller",
+  "noHistory": "Ingen historik endnu",
+  "score": "Point",
+  "players": "spillere",
+  "clearHistory": "Ryd Historik",
+  "clearHistoryConfirm": "Dette sletter alle historikposter. Denne handling kan ikke fortrydes.",
+  "diceSettings": "Terningindstillinger",
+  "enterValue": "Indtast værdi",
+  "clickToRoll": "Klik hvor som helst for at kaste terningen",
+  "viewModeHint": "Forskellen er kun synlig på tablets og computere",
+  "questionsAndImprovements": "Spørgsmål og Forbedringer"
 }
 

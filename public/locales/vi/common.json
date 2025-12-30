@@ -46,6 +46,16 @@
   "areYouSure": "Bạn có chắc chắn?",
   "resetScoreConfirm": "Điều này sẽ đặt lại tất cả điểm số về 0",
   "deleteAllConfirm": "Điều này sẽ xóa tất cả người chơi",
-  "deletePlayerConfirm": "Điều này sẽ xóa người chơi này"
+  "deletePlayerConfirm": "Điều này sẽ xóa người chơi này",
+  "noHistory": "Chưa có lịch sử",
+  "score": "Điểm",
+  "players": "người chơi",
+  "clearHistory": "Xóa Lịch Sử",
+  "clearHistoryConfirm": "Điều này sẽ xóa tất cả các mục lịch sử. Hành động này không thể hoàn tác.",
+  "diceSettings": "Cài Đặt Xúc Xắc",
+  "enterValue": "Nhập giá trị",
+  "clickToRoll": "Nhấp vào bất kỳ đâu để gieo xúc xắc",
+  "viewModeHint": "Sự khác biệt chỉ hiển thị trên máy tính bảng và máy tính để bàn",
+  "questionsAndImprovements": "Câu hỏi và Cải tiến"
 }
 

@@ -46,6 +46,16 @@
   "areYouSure": "Estàs segur?",
   "resetScoreConfirm": "Això restablirà totes les puntuacions a 0",
   "deleteAllConfirm": "Això eliminarà tots els jugadors",
-  "deletePlayerConfirm": "Això eliminarà aquest jugador"
+  "deletePlayerConfirm": "Això eliminarà aquest jugador",
+  "noHistory": "Encara no hi ha historial",
+  "score": "Puntuació",
+  "players": "jugadors",
+  "clearHistory": "Esborrar Historial",
+  "clearHistoryConfirm": "Això eliminarà totes les entrades de l'historial. Aquesta acció no es pot desfer.",
+  "diceSettings": "Configuració de Daus",
+  "enterValue": "Introdueix valor",
+  "clickToRoll": "Feu clic a qualsevol lloc per llançar els daus",
+  "viewModeHint": "La diferència només és visible en tauletes i escriptoris",
+  "questionsAndImprovements": "Preguntes i Millores"
 }
 

@@ -46,6 +46,16 @@
   "areYouSure": "Oletko varma?",
   "resetScoreConfirm": "Tämä nollaa kaikki pisteet nollaan",
   "deleteAllConfirm": "Tämä poistaa kaikki pelaajat",
-  "deletePlayerConfirm": "Tämä poistaa tämän pelaajan"
+  "deletePlayerConfirm": "Tämä poistaa tämän pelaajan",
+  "noHistory": "Ei vielä historiaa",
+  "score": "Pisteet",
+  "players": "pelaajaa",
+  "clearHistory": "Tyhjennä Historia",
+  "clearHistoryConfirm": "Tämä poistaa kaikki historiatiedot. Tätä toimintoa ei voi kumota.",
+  "diceSettings": "Noppa-asetukset",
+  "enterValue": "Syötä arvo",
+  "clickToRoll": "Klikkaa missä tahansa heittääksesi nopan",
+  "viewModeHint": "Ero näkyy vain tableteissa ja työpöytätietokoneissa",
+  "questionsAndImprovements": "Kysymykset ja Parannukset"
 }
 

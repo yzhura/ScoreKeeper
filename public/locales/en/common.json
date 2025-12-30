@@ -54,5 +54,7 @@
   "clearHistoryConfirm": "This will delete all history entries. This action cannot be undone.",
   "diceSettings": "Dice Settings",
   "enterValue": "Enter value",
-  "clickToRoll": "Click anywhere to roll the dice"
+  "clickToRoll": "Click anywhere to roll the dice",
+  "viewModeHint": "Difference is visible only on tablets and desktops",
+  "questionsAndImprovements": "Questions and Improvements"
 }

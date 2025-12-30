@@ -46,6 +46,16 @@
   "areYouSure": "Oled kindel?",
   "resetScoreConfirm": "See lähestab kõik punktid 0-le",
   "deleteAllConfirm": "See kustutab kõik mängijad",
-  "deletePlayerConfirm": "See kustutab selle mängija"
+  "deletePlayerConfirm": "See kustutab selle mängija",
+  "noHistory": "Ajalugu veel pole",
+  "score": "Punktid",
+  "players": "mängijat",
+  "clearHistory": "Tühjenda Ajalugu",
+  "clearHistoryConfirm": "See kustutab kõik ajaloo kirjed. Seda toimingut ei saa tagasi võtta.",
+  "diceSettings": "Täringu Seaded",
+  "enterValue": "Sisestage väärtus",
+  "clickToRoll": "Klõpsake kuskil, et täringut veeretada",
+  "viewModeHint": "Erinevus on nähtav ainult tahvelarvutites ja lauaarvutites",
+  "questionsAndImprovements": "Küsimused ja Parandused"
 }
 

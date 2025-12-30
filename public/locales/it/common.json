@@ -46,6 +46,16 @@
   "areYouSure": "Sei sicuro?",
   "resetScoreConfirm": "Questo azzererà tutti i punteggi a 0",
   "deleteAllConfirm": "Questo eliminerà tutti i giocatori",
-  "deletePlayerConfirm": "Questo eliminerà questo giocatore"
+  "deletePlayerConfirm": "Questo eliminerà questo giocatore",
+  "noHistory": "Nessuna cronologia ancora",
+  "score": "Punteggio",
+  "players": "giocatori",
+  "clearHistory": "Cancella Cronologia",
+  "clearHistoryConfirm": "Questo eliminerà tutte le voci della cronologia. Questa azione non può essere annullata.",
+  "diceSettings": "Impostazioni Dadi",
+  "enterValue": "Inserisci valore",
+  "clickToRoll": "Clicca ovunque per lanciare i dadi",
+  "viewModeHint": "La differenza è visibile solo su tablet e desktop",
+  "questionsAndImprovements": "Domande e Miglioramenti"
 }
 

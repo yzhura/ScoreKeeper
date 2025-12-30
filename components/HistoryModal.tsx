@@ -65,7 +65,7 @@ export default function HistoryModal({
                       className="flex items-center gap-1"
                     >
                       <Trash2 size={16} />
-                      {t("clearHistory") || "Clear"}
+                      {/* {t("clearHistory") || "Clear"} */}
                     </Button>
                   )}
                   <IconButton onClick={onClose} aria-label="Close">

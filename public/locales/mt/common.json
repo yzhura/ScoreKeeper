@@ -46,6 +46,16 @@
   "areYouSure": "Int żgur?",
   "resetScoreConfirm": "Dan se jirrisettja l-iskorijiet kollha għal 0",
   "deleteAllConfirm": "Dan se jħassar il-plejers kollha",
-  "deletePlayerConfirm": "Dan se jħassar dan il-plejer"
+  "deletePlayerConfirm": "Dan se jħassar dan il-plejer",
+  "noHistory": "Għadu ma hemmx storja",
+  "score": "Iskor",
+  "players": "plejers",
+  "clearHistory": "Naddaf l-Istorja",
+  "clearHistoryConfirm": "Dan se jħassar il-voċijiet kollha tal-istorja. Din l-azzjoni ma tistax tiġi annullata.",
+  "diceSettings": "Settings tad-Dadi",
+  "enterValue": "Daħħal valur",
+  "clickToRoll": "Ikklikkja kullimkien biex tarmi d-dadi",
+  "viewModeHint": "Id-differenza hija viżibbli biss fuq tablets u desktops",
+  "questionsAndImprovements": "Mistoqsijiet u Titjib"
 }
 

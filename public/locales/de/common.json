@@ -46,6 +46,16 @@
   "areYouSure": "Sind Sie sicher?",
   "resetScoreConfirm": "Dies setzt alle Punktzahlen auf 0 zurück",
   "deleteAllConfirm": "Dies löscht alle Spieler",
-  "deletePlayerConfirm": "Dies löscht diesen Spieler"
+  "deletePlayerConfirm": "Dies löscht diesen Spieler",
+  "noHistory": "Noch kein Verlauf",
+  "score": "Punktzahl",
+  "players": "Spieler",
+  "clearHistory": "Verlauf Löschen",
+  "clearHistoryConfirm": "Dies löscht alle Verlaufseinträge. Diese Aktion kann nicht rückgängig gemacht werden.",
+  "diceSettings": "Würfel-Einstellungen",
+  "enterValue": "Wert eingeben",
+  "clickToRoll": "Klicken Sie irgendwo, um die Würfel zu werfen",
+  "viewModeHint": "Der Unterschied ist nur auf Tablets und Desktops sichtbar",
+  "questionsAndImprovements": "Fragen und Verbesserungen"
 }
 

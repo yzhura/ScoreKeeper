@@ -46,6 +46,16 @@
   "areYouSure": "Ești sigur?",
   "resetScoreConfirm": "Aceasta va reseta toate scorurile la 0",
   "deleteAllConfirm": "Aceasta va șterge toți jucătorii",
-  "deletePlayerConfirm": "Aceasta va șterge acest jucător"
+  "deletePlayerConfirm": "Aceasta va șterge acest jucător",
+  "noHistory": "Încă nu există istoric",
+  "score": "Scor",
+  "players": "jucători",
+  "clearHistory": "Șterge Istoricul",
+  "clearHistoryConfirm": "Aceasta va șterge toate intrările din istoric. Această acțiune nu poate fi anulată.",
+  "diceSettings": "Setări Zaruri",
+  "enterValue": "Introdu valoarea",
+  "clickToRoll": "Faceți clic oriunde pentru a arunca zarurile",
+  "viewModeHint": "Diferența este vizibilă doar pe tablete și desktop-uri",
+  "questionsAndImprovements": "Întrebări și Îmbunătățiri"
 }
 

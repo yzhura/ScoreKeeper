@@ -46,6 +46,16 @@
   "areYouSure": "Êtes-vous sûr?",
   "resetScoreConfirm": "Cela réinitialisera tous les scores à 0",
   "deleteAllConfirm": "Cela supprimera tous les joueurs",
-  "deletePlayerConfirm": "Cela supprimera ce joueur"
+  "deletePlayerConfirm": "Cela supprimera ce joueur",
+  "noHistory": "Pas encore d'historique",
+  "score": "Score",
+  "players": "joueurs",
+  "clearHistory": "Effacer l'Historique",
+  "clearHistoryConfirm": "Cela supprimera toutes les entrées de l'historique. Cette action ne peut pas être annulée.",
+  "diceSettings": "Paramètres des Dés",
+  "enterValue": "Entrer la valeur",
+  "clickToRoll": "Cliquez n'importe où pour lancer les dés",
+  "viewModeHint": "La différence n'est visible que sur les tablettes et les ordinateurs de bureau",
+  "questionsAndImprovements": "Questions et Améliorations"
 }
 

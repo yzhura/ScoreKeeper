@@ -46,6 +46,16 @@
   "areYouSure": "Biztos benne?",
   "resetScoreConfirm": "Ez visszaállítja az összes pontszámot 0-ra",
   "deleteAllConfirm": "Ez törli az összes játékost",
-  "deletePlayerConfirm": "Ez törli ezt a játékost"
+  "deletePlayerConfirm": "Ez törli ezt a játékost",
+  "noHistory": "Még nincs előzmény",
+  "score": "Pontszám",
+  "players": "játékosok",
+  "clearHistory": "Előzmények Törlése",
+  "clearHistoryConfirm": "Ez törli az összes előzmény bejegyzést. Ez a művelet nem vonható vissza.",
+  "diceSettings": "Kocka Beállítások",
+  "enterValue": "Adja meg az értéket",
+  "clickToRoll": "Kattintson bárhová a kocka dobásához",
+  "viewModeHint": "A különbség csak tableteken és asztali számítógépeken látható",
+  "questionsAndImprovements": "Kérdések és Javítások"
 }
 

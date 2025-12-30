@@ -10,7 +10,7 @@ import { Select } from "@/components/ui/Select";
 import { Toggle } from "@/components/ui/Toggle";
 import { Input } from "@/components/ui/Input";
 import { IconButton } from "@/components/ui/IconButton";
-import { Plus, Trash2 } from "lucide-react";
+import { Plus, Trash2, Github, MessageCircle } from "lucide-react";
 
 const languages = [
   { code: "en", name: "English" },
@@ -65,10 +65,6 @@ export default function SettingsPage() {
     }
   };
 
-  const handleThemeChange = (theme: "auto" | "light" | "dark") => {
-    updateAppSettings({ theme });
-  };
-
   const handleKeepScreenActive = (enabled: boolean) => {
     updateAppSettings({ keepScreenActive: enabled });
     if (enabled && typeof window !== "undefined" && "wakeLock" in navigator) {
@@ -113,22 +109,6 @@ export default function SettingsPage() {
         </h1>
 
         <div className="space-y-6">
-          {/* Theme */}
-          <Section title={t("theme")}>
-            <ButtonGroup>
-              {(["auto", "light", "dark"] as const).map((theme) => (
-                <Button
-                  key={theme}
-                  onClick={() => handleThemeChange(theme)}
-                  variant={appSettings.theme === theme ? "default" : "outlined"}
-                  className="flex-1"
-                >
-                  {t(theme)}
-                </Button>
-              ))}
-            </ButtonGroup>
-          </Section>
-
           {/* Language */}
           <Section title={t("language")}>
             <Select
@@ -220,6 +200,32 @@ export default function SettingsPage() {
                   Add Point
                 </Button>
               )}
+            </div>
+          </Section>
+
+          {/* Links Section */}
+          <Section title={t("questionsAndImprovements")}>
+            <div className="space-y-3">
+              <a
+                href="https://www.threads.com/@yarikzhuravlov"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-3 p-3 rounded-lg bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors text-gray-900 dark:text-white"
+              >
+                <MessageCircle size={20} className="text-gray-600 dark:text-gray-400" />
+                <span className="flex-1">Threads</span>
+                <span className="text-sm text-gray-500 dark:text-gray-400">@yarikzhuravlov</span>
+              </a>
+              <a
+                href="https://github.com/yzhura/ScoreKeeper"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-3 p-3 rounded-lg bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors text-gray-900 dark:text-white"
+              >
+                <Github size={20} className="text-gray-600 dark:text-gray-400" />
+                <span className="flex-1">GitHub</span>
+                <span className="text-sm text-gray-500 dark:text-gray-400">yzhura/ScoreKeeper</span>
+              </a>
             </div>
           </Section>
         </div>

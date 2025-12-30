@@ -46,6 +46,16 @@
   "areYouSure": "よろしいですか？",
   "resetScoreConfirm": "すべてのスコアが0にリセットされます",
   "deleteAllConfirm": "すべてのプレイヤーが削除されます",
-  "deletePlayerConfirm": "このプレイヤーが削除されます"
+  "deletePlayerConfirm": "このプレイヤーが削除されます",
+  "noHistory": "履歴はまだありません",
+  "score": "スコア",
+  "players": "プレイヤー",
+  "clearHistory": "履歴をクリア",
+  "clearHistoryConfirm": "これによりすべての履歴エントリが削除されます。この操作は元に戻せません。",
+  "diceSettings": "サイコロ設定",
+  "enterValue": "値を入力",
+  "clickToRoll": "どこでもクリックしてサイコロを振る",
+  "viewModeHint": "違いはタブレットとデスクトップでのみ表示されます",
+  "questionsAndImprovements": "質問と改善"
 }
 

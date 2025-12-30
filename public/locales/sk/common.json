@@ -46,6 +46,16 @@
   "areYouSure": "Ste si istí?",
   "resetScoreConfirm": "Toto resetuje všetky skóre na 0",
   "deleteAllConfirm": "Toto zmaže všetkých hráčov",
-  "deletePlayerConfirm": "Toto zmaže tohto hráča"
+  "deletePlayerConfirm": "Toto zmaže tohto hráča",
+  "noHistory": "Zatiaľ žiadna história",
+  "score": "Skóre",
+  "players": "hráči",
+  "clearHistory": "Vymazať Históriu",
+  "clearHistoryConfirm": "Toto zmaže všetky záznamy histórie. Túto akciu nie je možné vrátiť späť.",
+  "diceSettings": "Nastavenia Kociek",
+  "enterValue": "Zadajte hodnotu",
+  "clickToRoll": "Kliknite kdekoľvek pre hodenie kockou",
+  "viewModeHint": "Rozdiel je viditeľný len na tabletoch a počítačoch",
+  "questionsAndImprovements": "Otázky a Vylepšenia"
 }
 

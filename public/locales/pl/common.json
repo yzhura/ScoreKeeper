@@ -46,6 +46,16 @@
   "areYouSure": "Czy jesteś pewien?",
   "resetScoreConfirm": "To zresetuje wszystkie wyniki do 0",
   "deleteAllConfirm": "To usunie wszystkich graczy",
-  "deletePlayerConfirm": "To usunie tego gracza"
+  "deletePlayerConfirm": "To usunie tego gracza",
+  "noHistory": "Brak historii",
+  "score": "Wynik",
+  "players": "graczy",
+  "clearHistory": "Wyczyść Historię",
+  "clearHistoryConfirm": "To usunie wszystkie wpisy historii. Tej akcji nie można cofnąć.",
+  "diceSettings": "Ustawienia Kostek",
+  "enterValue": "Wprowadź wartość",
+  "clickToRoll": "Kliknij gdziekolwiek, aby rzucić kostką",
+  "viewModeHint": "Różnica jest widoczna tylko na tabletach i komputerach",
+  "questionsAndImprovements": "Pytania i Ulepszenia"
 }
 

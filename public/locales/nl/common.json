@@ -46,6 +46,16 @@
   "areYouSure": "Weet je het zeker?",
   "resetScoreConfirm": "Dit reset alle scores naar 0",
   "deleteAllConfirm": "Dit verwijdert alle spelers",
-  "deletePlayerConfirm": "Dit verwijdert deze speler"
+  "deletePlayerConfirm": "Dit verwijdert deze speler",
+  "noHistory": "Nog geen geschiedenis",
+  "score": "Score",
+  "players": "spelers",
+  "clearHistory": "Geschiedenis Wissen",
+  "clearHistoryConfirm": "Dit verwijdert alle geschiedenisvermeldingen. Deze actie kan niet ongedaan worden gemaakt.",
+  "diceSettings": "Dobbelsteen Instellingen",
+  "enterValue": "Voer waarde in",
+  "clickToRoll": "Klik ergens om de dobbelstenen te gooien",
+  "viewModeHint": "Het verschil is alleen zichtbaar op tablets en desktops",
+  "questionsAndImprovements": "Vragen en Verbeteringen"
 }
 

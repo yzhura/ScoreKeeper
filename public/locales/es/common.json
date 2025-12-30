@@ -46,6 +46,16 @@
   "areYouSure": "¿Estás seguro?",
   "resetScoreConfirm": "Esto restablecerá todas las puntuaciones a 0",
   "deleteAllConfirm": "Esto eliminará todos los jugadores",
-  "deletePlayerConfirm": "Esto eliminará este jugador"
+  "deletePlayerConfirm": "Esto eliminará este jugador",
+  "noHistory": "Aún no hay historial",
+  "score": "Puntuación",
+  "players": "jugadores",
+  "clearHistory": "Limpiar Historial",
+  "clearHistoryConfirm": "Esto eliminará todas las entradas del historial. Esta acción no se puede deshacer.",
+  "diceSettings": "Configuración de Dados",
+  "enterValue": "Introducir valor",
+  "clickToRoll": "Haz clic en cualquier lugar para lanzar los dados",
+  "viewModeHint": "La diferencia solo es visible en tabletas y escritorios",
+  "questionsAndImprovements": "Preguntas y Mejoras"
 }
 

@@ -46,6 +46,16 @@
   "areYouSure": "Jste si jisti?",
   "resetScoreConfirm": "Toto resetuje všechna skóre na 0",
   "deleteAllConfirm": "Toto smaže všechny hráče",
-  "deletePlayerConfirm": "Toto smaže tohoto hráče"
+  "deletePlayerConfirm": "Toto smaže tohoto hráče",
+  "noHistory": "Zatím žádná historie",
+  "score": "Skóre",
+  "players": "hráči",
+  "clearHistory": "Vymazat Historie",
+  "clearHistoryConfirm": "Toto smaže všechny záznamy historie. Tuto akci nelze vrátit zpět.",
+  "diceSettings": "Nastavení Kostek",
+  "enterValue": "Zadejte hodnotu",
+  "clickToRoll": "Klikněte kamkoli pro hození kostkou",
+  "viewModeHint": "Rozdíl je viditelný pouze na tabletech a počítačích",
+  "questionsAndImprovements": "Dotazy a Vylepšení"
 }
 

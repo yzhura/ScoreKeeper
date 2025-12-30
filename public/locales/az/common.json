@@ -46,6 +46,16 @@
   "areYouSure": "Əminsiniz?",
   "resetScoreConfirm": "Bu bütün xalları 0-a sıfırlayacaq",
   "deleteAllConfirm": "Bu bütün oyunçuları siləcək",
-  "deletePlayerConfirm": "Bu oyunçunu siləcək"
+  "deletePlayerConfirm": "Bu oyunçunu siləcək",
+  "noHistory": "Hələ tarixçə yoxdur",
+  "score": "Xal",
+  "players": "oyunçu",
+  "clearHistory": "Tarixçəni Təmizlə",
+  "clearHistoryConfirm": "Bu bütün tarixçə qeydlərini siləcək. Bu əməliyyat geri qaytarıla bilməz.",
+  "diceSettings": "Zər Parametrləri",
+  "enterValue": "Dəyər daxil edin",
+  "clickToRoll": "Zər atmaq üçün hər hansı bir yerə klikləyin",
+  "viewModeHint": "Fərq yalnız planşetlərdə və masaüstü kompüterlərdə görünür",
+  "questionsAndImprovements": "Suallar və Təkmilləşdirmələr"
 }
 

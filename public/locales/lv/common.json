@@ -46,6 +46,16 @@
   "areYouSure": "Vai esat pārliecināts?",
   "resetScoreConfirm": "Tas atiestatīs visus punktus uz 0",
   "deleteAllConfirm": "Tas dzēsīs visus spēlētājus",
-  "deletePlayerConfirm": "Tas dzēsīs šo spēlētāju"
+  "deletePlayerConfirm": "Tas dzēsīs šo spēlētāju",
+  "noHistory": "Vēl nav vēstures",
+  "score": "Punkti",
+  "players": "spēlētāji",
+  "clearHistory": "Notīrīt Vēsturi",
+  "clearHistoryConfirm": "Tas dzēsīs visus vēstures ierakstus. Šo darbību nevar atsaukt.",
+  "diceSettings": "Kauliņu Iestatījumi",
+  "enterValue": "Ievadiet vērtību",
+  "clickToRoll": "Noklikšķiniet jebkur, lai mestu kauliņu",
+  "viewModeHint": "Atšķirība ir redzama tikai planšetdatoros un darbvirsmas datoros",
+  "questionsAndImprovements": "Jautājumi un Uzlabojumi"
 }
 

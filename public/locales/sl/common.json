@@ -46,6 +46,16 @@
   "areYouSure": "Ste prepričani?",
   "resetScoreConfirm": "To bo ponastavilo vse rezultate na 0",
   "deleteAllConfirm": "To bo izbrisalo vse igralce",
-  "deletePlayerConfirm": "To bo izbrisalo tega igralca"
+  "deletePlayerConfirm": "To bo izbrisalo tega igralca",
+  "noHistory": "Zgodovine še ni",
+  "score": "Rezultat",
+  "players": "igralcev",
+  "clearHistory": "Počisti Zgodovino",
+  "clearHistoryConfirm": "To bo izbrisalo vse vnose zgodovine. Tega dejanja ni mogoče razveljaviti.",
+  "diceSettings": "Nastavitve Kock",
+  "enterValue": "Vnesite vrednost",
+  "clickToRoll": "Kliknite kjerkoli za met kocke",
+  "viewModeHint": "Razlika je vidna le na tabličnih računalnikih in namiznih računalnikih",
+  "questionsAndImprovements": "Vprašanja in Izboljšave"
 }
 
